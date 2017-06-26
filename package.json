@@ -19,5 +19,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/renyamizuno/posthtml-style-expantion.git"
-  }
+  },
+  "keywords": [
+    "posthtml",
+    "html",
+    "css"
+  ]
 }
