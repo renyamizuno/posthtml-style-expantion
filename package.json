@@ -1,0 +1,19 @@
+{
+  "name": "posthtml-style-expansion",
+  "version": "0.1.0",
+  "description": "PostHTML plugin expansion link rel=\"stylesheet\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "merotan <renyamizuno+js@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "posthtml-parser": "^0.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "posthtml": "^0.9.2"
+  }
+}

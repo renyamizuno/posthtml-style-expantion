@@ -1,4 +1,4 @@
 # PostHTML-Style-Expansion
 
-PostHTML plugin expansion link rel="stylesheet".
+PostHTML plugin expand link rel="stylesheet".
 
