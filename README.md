@@ -2,6 +2,12 @@
 
 PostHTML plugin expand link rel="stylesheet".
 
+## Install
+
+```
+npm i -D posthtml-style-expansion
+```
+
 ## Usage
 
 ```js
