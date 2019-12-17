@@ -1,6 +1,6 @@
 {
   "name": "posthtml-style-expansion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "PostHTML plugin expansion link rel=\"stylesheet\"",
   "main": "index.js",
   "scripts": {
