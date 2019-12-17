@@ -9,11 +9,11 @@
   "author": "merotan <renyamizuno+js@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "posthtml-parser": "^0.2.1"
+    "posthtml-parser": "^0.4.2"
   },
   "devDependencies": {
-    "chai": "^4.0.2",
-    "mocha": "^3.4.2",
+    "chai": "^4.2.0",
+    "mocha": "^3.5.3",
     "posthtml": "^0.9.2"
   },
   "repository": {
