@@ -18,6 +18,37 @@ posthtml([require('posthtml-style-expansion')({ root: './', encoding: 'utf-8' })
   .then( result => console.log(result.html))
 ```
 
+## Example
+**`input.html`**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>posthtml-style-expansion</title>
+  <link expand="true" href="/path/index.css" rel="stylesheet">
+</head>
+<body>
+  
+</body>
+</html>
+```
+
+**`output.html`**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>posthtml-style-expansion</title>
+  <style>.test{display:block;}</style>
+</head>
+<body>
+  
+</body>
+</html>
+```
+
 ### Options
 `root`: Root folder
 
